@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Davyd</h1>
 <h3 align="center">👦 I am 13 old guy from Ukraine</h3>
+
 - 🌱 I’m currently learning **C#, .Net, C++, Python, Blender, Unity, Arduino, ESP32**
 
 - ⚡ Fun fact **My avatar is taken from a movie by Kane Parsons**
