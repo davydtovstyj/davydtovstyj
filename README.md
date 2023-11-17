@@ -3,7 +3,6 @@
 <h3 align="center">👦 I am 13 old guy from Ukraine</h3>
 - 🌱 I’m currently learning **C#, .Net, C++, Python, Blender, Unity, Arduino, ESP32**
 
-
 - ⚡ Fun fact **My avatar is taken from a movie by Kane Parsons**
 
 <div> <a href="https://github.com/davydtovstyj" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
