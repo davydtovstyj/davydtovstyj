@@ -1,5 +1,5 @@
-<h1 align="center">Hello, my name is Davyd</h1>
-<h3 align="center">I am 13 old guy from Ukraine</h3>
+<h1 align="center">👋 Hello, my name is Davyd</h1>
+<h3 align="center">👦 I am 13 old guy from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davydtovstyj&label=Profile%20views&color=0e75b6&style=flat" alt="davydtovstyj" /> </p>
 
