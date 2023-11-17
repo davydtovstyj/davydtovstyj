@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/davidtovstii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidtovstii" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@pachka_tsykry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pachka_tsykry" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/davyd_tovstyj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="davyd_tovstyj" height="30" width="40" /></a>
 </p>
