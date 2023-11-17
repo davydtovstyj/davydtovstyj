@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Davyd</h1>
 <h3 align="center">👦 I am 13 old guy from Ukraine</h3>
 
-<p align="center">• 🌱 I’m currently learning **C#, .Net, C++, Python, Blender, Unity, Arduino, ESP32**</p>
+<p align="center">• 🌱 I’m currently learning: C#, .Net, C++, Python, Blender, Unity, Arduino, ESP32</p>
 
-<p align="center">• ⚡ Fun fact **My avatar is taken from a movie by Kane Parsons**</p>
+<p align="center">• ⚡ Fun fact: My avatar is taken from a movie by Kane Parsons</p>
 </div><h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.youtube.com/c/@pachka_tsykry" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="@pachka_tsykry" height="30" width="40" /></a><a href="https://www.leetcode.com/davyd_tovstyj" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="davyd_tovstyj" height="30" width="40" /></a><a href="https://instagram.com/davidtovstii" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="davidtovstii" height="30" width="40" /></a></p>
