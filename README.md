@@ -1,13 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Davyd</h1>
-<h3 align="center">👦 I am 13 old guy from Ukraine</h3>
+<h3 align="center">👦 I am 14 old guy from Ukraine</h3>
 
-<p align="center">• 🌱 I’m currently learning: C#, .Net, C++, Python, Blender, Unity, Arduino, ESP32</p>
+<p align="center">• 🌱 I’m currently learning: C#, .Net, C++, Qt, Python, Blender, Unity, Algorithms & Data Structures</p>
 
-<p align="center">• ⚡ Fun fact: My avatar is taken from a movie by Kane Parsons</p>
 </div><h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/@pachka_tsykry" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="@pachka_tsykry" height="50" width="60" /></a><a href="https://www.leetcode.com/davyd_tovstyj" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="davyd_tovstyj" height="50" width="60" /></a><a href="https://instagram.com/davidtovstii" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="davidtovstii" height="50" width="60" /></a></p>
+<a href="https://www.leetcode.com/davyd_tovstyj" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="davyd_tovstyj" height="50" width="60" /></a><a href="https://instagram.com/davidtovstii" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="davidtovstii" height="50" width="60" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
